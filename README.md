@@ -145,13 +145,21 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+```
+MIT License — Copyright (c) 2025 Aaditya Bansal
+```
+
+You are free to use, modify, and distribute this project with attribution.
 
 ---
 
 ## 👨‍💻 Author
 
-**Aaditya** — [CodeBreaker-0111](https://github.com/CodeBreaker-0111)
+**Aaditya Bansal** — [CodeBreaker-0111](https://github.com/CodeBreaker-0111)
+
+> Designed & Developed by Aaditya Bansal. All Rights Reserved.
 
 > *"Built with curiosity and caffeine ☕"*
 
